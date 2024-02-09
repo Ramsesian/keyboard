@@ -15,10 +15,6 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-// Allows for inputting unicode characters directly (AKA window's alt codes). 
-// you have to specify what OS you're using. 
-// For linux you click ctrl-shift-u, let go of u, input the character's hexode, then release ctrl-shift
-#define UNICODE_SELECTED_MODES UNICODE_MODE_LINUX
 
 // this allows qmk to tell whether you're flashing the left or right side of the keyboard
 #define MASTER_LEFT
