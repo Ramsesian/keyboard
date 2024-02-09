@@ -1,0 +1,2 @@
+SPLIT_KEYBOARD = yes
+UNICODE_COMMON = yes
