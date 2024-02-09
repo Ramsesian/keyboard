@@ -15,7 +15,7 @@ To view and edit the keymap use [qmk configurator](https://config.qmk.fm) by imp
 **What's with all the N/A's?** <br>
 The N/A stops you from going to other layers while not on the first. 
 
-If you go from layer 01 to layer 02 you return to layer 01. However if you go from layer 01 -> layer 02 -> layer 03 then it returns to layer 02 and essentially now you're stuck there until you unplug and plug the keyboard back in again.
+If you go from layer 01 ➜ layer 02 you return to layer 01. However if you go from layer 01 ➜ layer 02 ➜ layer 03 then it returns to layer 02 and essentially now you're stuck there until you unplug and plug the keyboard back in again.
 
 Flashing the Firmware
 ---------------------
